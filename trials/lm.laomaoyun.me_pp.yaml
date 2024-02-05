@@ -65,7 +65,7 @@ proxy-groups:
 proxy-providers:
   All:
     type: http
-    url: https://raw.kgithub.com/0xJins/x.sub/main/trials_providers/lm.laomaoyun.me/All.yaml
+    url: https://raw.kgithub.com/xoxo356/x.sub/main/trials_providers/lm.laomaoyun.me/All.yaml
     interval: 180
     path: trials_providers/lm.laomaoyun.me/All.yaml
     health-check:
