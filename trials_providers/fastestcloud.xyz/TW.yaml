@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gcdddd0001.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: b5edfd90-bcdf-4429-9833-4b1c9838a39e, udp: true}
-- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: gcdddd0003.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: b5edfd90-bcdf-4429-9833-4b1c9838a39e, udp: true}
-- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: gcdddd0005.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: b5edfd90-bcdf-4429-9833-4b1c9838a39e, udp: true}
-- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gcdddd0001.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: b5edfd90-bcdf-4429-9833-4b1c9838a39e, udp: true}
-- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: gcdddd0003.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: b5edfd90-bcdf-4429-9833-4b1c9838a39e, udp: true}
-- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: gcdddd0005.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: b5edfd90-bcdf-4429-9833-4b1c9838a39e, udp: true}
+- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: gcdddd0001.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 481f7a37-6084-4c57-91cc-a95a665558fc, udp: true}
+- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: gcdddd0003.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 481f7a37-6084-4c57-91cc-a95a665558fc, udp: true}
+- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: gcdddd0005.likeone.lol, port: 25074, type: ss, cipher: chacha20-ietf-poly1305, password: 481f7a37-6084-4c57-91cc-a95a665558fc, udp: true}
+- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: gcdddd0001.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 481f7a37-6084-4c57-91cc-a95a665558fc, udp: true}
+- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: gcdddd0003.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 481f7a37-6084-4c57-91cc-a95a665558fc, udp: true}
+- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: gcdddd0005.likeone.lol, port: 35672, type: ss, cipher: chacha20-ietf-poly1305, password: 481f7a37-6084-4c57-91cc-a95a665558fc, udp: true}
